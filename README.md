@@ -9,7 +9,7 @@ You need to set three config flags to work with the function:
 
 * ```modelId``` = ID of the Cognitive service model to be used
 * ```endpoint``` = The Azure Cognitive Services Endpoint of your Azure cognitive services resource 
-* ```key``` = The Azure cognitive services key to access the Cognitive services. Shoudl be stored in an Azure Key Vault 
+* ```key``` = The Azure cognitive services key to access the Cognitive services. **Should be stored in an Azure Key Vault.**
 
 ## Usage 
 
