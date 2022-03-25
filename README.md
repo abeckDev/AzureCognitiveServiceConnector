@@ -7,9 +7,9 @@ The result will be KeyValue pairs as JSON objects.
 
 You need to set three config flags to work with the function:
 
-* modelId = ID of the Cognitive service model to be used
-* endpoint = The Azure Cognitive Services Endpoint of your Azure cognitive services resource 
-* key = The Azure cognitive services key to access the Cognitive services. Shoudl be stored in an Azure Key Vault 
+* ```modelId``` = ID of the Cognitive service model to be used
+* ```endpoint``` = The Azure Cognitive Services Endpoint of your Azure cognitive services resource 
+* ```key``` = The Azure cognitive services key to access the Cognitive services. Shoudl be stored in an Azure Key Vault 
 
 ## Usage 
 
